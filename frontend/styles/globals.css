@@ -1,0 +1,4 @@
+html,body{margin:0;padding:0;background:#001f3f;color:#fff;font-family:system-ui}
+main{max-width:960px;margin:0 auto;padding:24px}
+button{cursor:pointer}
+input{background:#002a66;border:1px solid #0ff;color:#fff;padding:8px;border-radius:6px}
